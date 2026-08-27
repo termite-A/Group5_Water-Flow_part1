@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "esp32-http-server",
+		"path": "D:/xammp/htdocs/smart-irragation/esp32-http-server"
+	},
+	{
+		"name": "irrgation",
+		"path": "../../Documents/PlatformIO/Projects/irrgation"
+	}
+],
+  "settings": {}
+}

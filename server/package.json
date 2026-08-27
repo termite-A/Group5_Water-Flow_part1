@@ -1,0 +1,8 @@
+{
+  "name": "smart-water-irrigation-api",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "tsx server.ts", "start": "tsx server.ts" },
+  "dependencies": { "cors": "latest", "express": "latest", "mysql2": "latest" },
+  "devDependencies": { "@types/cors": "latest", "@types/express": "latest", "@types/node": "latest", "tsx": "latest", "typescript": "latest" }
+}
